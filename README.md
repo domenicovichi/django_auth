@@ -14,7 +14,7 @@ This is a simple Django project that demonstrates user authentication using Djan
 **Django**
 - Django Rest Framework (DRF)
 - PostgreSQL
-- 
+
 **How to Use:**
 
 - Clone the repository to your local machine.
